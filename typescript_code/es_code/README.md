@@ -1,0 +1,5 @@
+https://www.typescriptlang.org/play/?target=1#code/PTAEAEGcAsHsHcCiBbAlgFwFAgughgE4DmApugFygmQCsmAZgK4B2AxuqrM6EQSWQAoADiQKQulSOgKpmRADSgAJnnQlKAEVUkAlKADemUKFZdxAGxIA6c7CICABgAkS526AAk+kWK4BfRXRYFQBPUFRIT30VNSsgrTUAZWlZex0-AEIHHQBuTD9MTF5+dAEAIgBZPCUlCK4yxWYSeFAEkgEdXKA
+
+above code works in playground noImplicitAny : "true"
+
+
