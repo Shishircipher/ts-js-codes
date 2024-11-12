@@ -1,0 +1,19 @@
+{
+  "name": "browser javascript",
+  "version": "1.0.0",
+  "description": "Experiment the javascript in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server -d -c-1 public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shishircipher/ts-js-code/javascript_code/in_browser_code"
+  },
+  "author": "Shishir",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
