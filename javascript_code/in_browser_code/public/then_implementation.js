@@ -95,3 +95,13 @@ promise1.then((value) => {
   console.log(value);
   // Expected output: "Success!"
 });
+
+let promise2 = new MyPromise(function(resolve, reject) {
+  setTimeout(() => resolve("done!"), 1000);
+});
+
+// resolve runs the first function in .then
+promise2.then(
+  result => console.log(result), // shows "done!" after 1 second
+  error => console.log(error) // doesn't run
+);
